@@ -42,6 +42,7 @@ input, button {
 input {
     background-color: #e2e2e2;
     border: 1px solid darkblue;
+    color: black;
 }
 button {
     background-color: #0080ff;
